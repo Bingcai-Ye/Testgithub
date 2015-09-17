@@ -1,5 +1,5 @@
 
---这是技能界面
+--这是技能界面Github管理
 local SkillScene = class("SkillScene", function()
     return display.newScene("SkillScene")
 end)
