@@ -1,4 +1,5 @@
 
+--这是技能界面
 local SkillScene = class("SkillScene", function()
     return display.newScene("SkillScene")
 end)
